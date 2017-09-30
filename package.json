@@ -5,7 +5,7 @@
 	"main": "./index.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/ismarslomic/angular-read-more.git"
+		"url": "git://github.com/jesujcastillom/angular-read-more.git"
 	},
 	"keywords": [
 		"angular",
@@ -25,7 +25,7 @@
 	],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ismarslomic/angular-read-more/issues"
+		"url": "https://github.com/jesujcastillom/angular-read-more/issues"
 	},
 	"homepage": "https://github.com/ismarslomic/angular-read-more",
 	"devDependencies": {
