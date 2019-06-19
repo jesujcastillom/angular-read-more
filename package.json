@@ -39,7 +39,7 @@
 		"gulp-ng-annotate": "^2.0.0",
 		"gulp-rename": "^1.2.2",
 		"gulp-shell": "^0.6.3",
-		"gulp-uglify": "^2.1.2",
+		"gulp-uglify": "^3.0.2",
 		"jasmine-core": "^2.6.1",
 		"karma": "~1.7.0",
 		"karma-angular-filesort": "^1.0.2",
