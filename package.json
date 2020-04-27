@@ -30,7 +30,7 @@
 	"homepage": "https://github.com/ismarslomic/angular-read-more",
 	"devDependencies": {
 		"browser-sync": "^2.18.11",
-		"coveralls": "^2.13.1",
+		"coveralls": "^3.1.0",
 		"gulp": "^3.9.1",
 		"gulp-angular-templatecache": "^2.0.0",
 		"gulp-clean": "^0.3.2",
